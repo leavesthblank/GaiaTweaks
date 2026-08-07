@@ -1,2 +1,2 @@
 # GaiaTweaks
-Tweaks and bugfixes made for the Blossom of Gaia modpack
+Tweaks, bugfixes and new features in one mod.
